@@ -37,4 +37,11 @@ bash init_setup.sh
 
 # For CI/CD there should be github folder in repo
 # In github folder we keep workflows containing .yml files
+# .gitkeep file is kept in workflows folder to keep required empty file(s)
 
+# In Notebook folder, research.ipynb file is kept
+
+# In src folder -> Dimond Price Predict -> Component, pipeline folder
+# In Component folder, dataIngestion.py, preprocessing.py, modelTraining.py
+
+# In pipeline folder,
