@@ -34,3 +34,7 @@ git pull
 bash init_setup.sh
 ```
 # Note: shell script won't work for Windows terminal.
+
+# For CI/CD there should be github folder in repo
+# In github folder we keep workflows containing .yml files
+
