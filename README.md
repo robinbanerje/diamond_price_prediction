@@ -28,5 +28,9 @@ git push origin main
 git pull
 ```
 
-# to automate command line scipt, create init_setup.sh file in "Linux" or "MacOS"
+# to automate command line scipt, create init_setup.sh file in "Linux" or "MacOS".
+# list all the linux commands in the shell script and then use below command.
+```
+bash init_setup.sh
+```
 
