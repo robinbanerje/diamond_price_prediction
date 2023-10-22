@@ -33,4 +33,4 @@ git pull
 ```
 bash init_setup.sh
 ```
-
+# Note: shell script won't work for Windows terminal.
