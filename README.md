@@ -16,3 +16,16 @@ git add .
 git commit -m "required commit comment"
 ```
 
+# Git push changes in the project
+```
+git push origin main
+```
+
+# Create .gitignore and LICENSE files in the repo
+
+# Pull changes in the repo to local
+```
+git pull
+```
+
+# to automate command line scipt, create init_setup.sh file
