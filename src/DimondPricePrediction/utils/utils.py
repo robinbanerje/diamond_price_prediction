@@ -44,7 +44,8 @@ def evaluate_model(X_train,y_train,X_test,y_test,models):
     except Exception as e:
         logging.info('Exception occured during model training')
         raise customexception(e,sys)
-    
+
+# Loading the model    
 def load_object(file_path):
     try:
         with open(file_path,'rb') as file_obj:
