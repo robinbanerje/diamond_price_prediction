@@ -45,3 +45,4 @@ bash init_setup.sh
 # In Component folder, dataIngestion.py, preprocessing.py, modelTraining.py
 
 # In pipeline folder,
+
